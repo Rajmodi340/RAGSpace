@@ -1,4 +1,4 @@
-# AI Knowledge Workspace
+# RAGSpace
 
 A sophisticated RAG (Retrieval-Augmented Generation) platform built with a modern microservices architecture. This application enables users to upload documents, create workspaces, and interact with AI-powered chat to query their knowledge base using semantic search and LLM generation.
 
